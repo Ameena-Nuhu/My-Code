@@ -1,0 +1,62 @@
+
+body{
+    
+    text-align: center;
+}
+
+.input4
+{ border: 1px solid #ccc;
+  border-radius: 10px; 
+  padding: 10px;          
+  margin: 15px; 
+ }
+
+.input3[type="email"]
+{
+ border: 1px solid #ccc;
+  border-radius: 10px; 
+  padding: 10px;          
+  margin: 15px;
+  }
+
+
+   h3{
+    color: #213555;
+font-family:"Quicksand" sans-serif;
+}
+button 
+
+{ background-color:#FCE09B;          
+border: none;
+border-radius: 10px;
+height: 36px;
+width: 105px;
+cursor: pointer;
+
+}
+.button:hover
+{ background-color:#EADBC8;
+
+}
+.ameena[type="text"]
+
+{border: 1px solid #ccc;
+     margin-left: 15px;
+    
+margin-bottom: 20px;
+margin-right: 10px;
+border-radius: 10px;
+height: 36px;
+width: 200px;
+text-align: center;
+padding-bottom: 30px;
+padding-top: 2px;
+padding-left: 10px;
+padding-right: 10px;
+
+}
+form p {
+            max-width: 400px;
+            margin: 0 auto;
+        }
+ 
